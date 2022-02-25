@@ -24,7 +24,7 @@
 - 🌱 Currently learning more about Data Analytics
 - 🤔 I’m looking for help with Machine learning Algorithms
 - 👯 Looking to collaborate with other App Devs & UX Designers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Feel free to drop a message or any query
 <br>
 
