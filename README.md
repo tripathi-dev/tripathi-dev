@@ -8,6 +8,7 @@
 **I love making useful and visually pleasing projects by learning and implementing different technologies and modules.**
 **Here are few of my projects, feel free to explore and help me improve them! 😄**
 
+<br></br>
 
 <p align="center">
   <a href="https://devtripathi.live"  target="_blank"><img src="favicon.svg"></a>
