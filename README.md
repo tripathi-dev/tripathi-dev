@@ -8,6 +8,14 @@
 **I love making useful and visually pleasing projects by learning and implementing different technologies and modules.**
 **Here are few of my projects, feel free to explore and help me improve them! 😄**
 
+<p align="center">
+  <a href="https://devtripathi.live"  target="_blank"><img src="favicon.svg"></a>
+  <a href="https://www.linkedin.com/in/dev-shankar-tripathi/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:dev_tripathi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/dev.shankar.tripath" target="_blank"><img src="https://img.shields.io/badge/instagram-595858.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <!--  <a href="https://twitter.com/--------" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>   -->
+</p>
+
 <hr>
 <table>
   <tr>
@@ -52,11 +60,12 @@
 
 <br></br>
 
+<!--
 ### Connect with me! 🚀:  
 [![PORTFOLIO Badge](https://img.shields.io/badge/Portfolio-fa4a0c?style=flat-square&link=https://devtripathi.live/)](https://devtripathi.live/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-shankar-tripathi/)](https://www.linkedin.com/in/dev-shankar-tripathi/)
 [![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev_tripathi@outlook.com)](mailto:dev_tripathi@outlook.com)
-
+-->
 <br></br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
