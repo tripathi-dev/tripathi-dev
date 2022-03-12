@@ -65,8 +65,10 @@
 [![PORTFOLIO Badge](https://img.shields.io/badge/Portfolio-fa4a0c?style=flat-square&link=https://devtripathi.live/)](https://devtripathi.live/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-shankar-tripathi/)](https://www.linkedin.com/in/dev-shankar-tripathi/)
 [![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev_tripathi@outlook.com)](mailto:dev_tripathi@outlook.com)
--->
+
 <br></br>
+
+-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
