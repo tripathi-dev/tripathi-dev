@@ -8,6 +8,8 @@
 **I love making useful and visually pleasing projects by learning and implementing different technologies and modules.**
 **Here are few of my projects, feel free to explore and help me improve them! 😄**
 
+<br></br>
+
 <p align="center">
   <a href="https://devtripathi.live"  target="_blank"><img src="favicon.svg"></a>
   <a href="https://www.linkedin.com/in/dev-shankar-tripathi/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
