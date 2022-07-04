@@ -16,7 +16,7 @@
 
 **Final year BTech student🎓 pursuing Computer Science Engineering at SRM Institute of Science and Technology, Chennai.**
 **Currently building relevant skills to become an SDE.**
-**I love making useful and visually pleasinng projects by learning and implementing different technologies and modules.**
+**I love making useful and visually pleasing projects by learning and implementing different technologies and modules.**
 **Here are few of my projects, feel free to explore and help me improve them! 😄**
 
 <br></br>
