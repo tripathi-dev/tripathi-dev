@@ -1,22 +1,23 @@
-<h1 align="center"> Hello there 👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
-
-## Dev here🙋🏻‍♂️
-### Here is something you should know about me😄 
-
-**I am pre-final year BTech student🎓 pursuing Computer Science Engineering-IT at SRM Institute of Science and Technology, Chennai.**
-**I am currently building skills to become an SDE.**
-**I love making useful and visually pleasing projects by learning and implementing different technologies and modules.**
-**Here are few of my projects, feel free to explore and help me improve them! 😄**
-
-<br></br>
-
+<p align="center" >Hi, <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="20px"></p>
+<h1 align="center">I’m Dev</h1>
 <p align="center">
+  
+  <p align="center">
   <a href="https://devtripathi.live"  target="_blank"><img src="favicon.svg"></a>
   <a href="https://www.linkedin.com/in/dev-shankar-tripathi/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:dev_tripathi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/dev.shankar.tripathi" target="_blank"><img src="https://img.shields.io/badge/instagram-595858.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/dev.shankar.tripath" target="_blank"><img src="https://img.shields.io/badge/instagram-595858.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <!--  <a href="https://twitter.com/--------" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>   -->
 </p>
+  
+</p>
+</br>
+
+
+**Final year BTech student🎓 pursuing Computer Science Engineering at SRM Institute of Science and Technology, Chennai.**
+**Currently building relevant skills to become an SDE.**
+**I love making useful and visually pleasinng projects by learning and implementing different technologies and modules.**
+**Here are few of my projects, feel free to explore and help me improve them! 😄**
 
 <br></br>
 
