@@ -3,7 +3,7 @@
 <p align="center">
   
   <p align="center">
-  <a href="https://devtripathi.live"  target="_blank"><img src="favicon.svg"></a>
+  <a href="https://devtripathi.live"  target="_blank"><img src="assets/favicon.svg"></a>
   <a href="https://www.linkedin.com/in/dev-shankar-tripathi/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:dev_tripathi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="https://instagram.com/dev.shankar.tripath" target="_blank"><img src="https://img.shields.io/badge/instagram-595858.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
