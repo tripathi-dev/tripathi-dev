@@ -1,4 +1,4 @@
-<p align="center" >Hi, <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="20px"></p>
+<h2 align="center" >Hi, <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="20px"></h2>
 <h1 align="center">I’m Dev</h1>
 <p align="center">
   
