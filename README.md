@@ -1,5 +1,5 @@
 <p align="center" >Hi, <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="20px"></p>
-<h1 align="center">I’m Dev</h1>
+<h2 align="center">I’m Dev</h2>
 <p align="center">
   
   <p align="center">
