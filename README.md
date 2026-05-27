@@ -27,7 +27,7 @@
     <td>
       <b>You are visitor number:</b>
       <br />
-      <img src="https://profile-counter.glitch.me/tripathi-dev/count.svg" alt="Visitor Counter" height="30" />
+      <img src="https://komarev.com/ghpvc/?username=tripathi-dev&color=blueviolet&style=flat-square" alt="Visitor Counter" height="30" />
     </td>
     <td align="right">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
@@ -46,6 +46,7 @@
 
  #### :zap: Guithub Stats:
 ![Dev's github stats](https://github-readme-stats-fast.vercel.app/api?username=tripathi-dev&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tripathi-dev&layout=compact&theme=tokyonight)](https://github.com/tripathi-dev/tripathi-dev)
 
 <br></br>
