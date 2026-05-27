@@ -38,12 +38,18 @@
 <br>
 
  #### :zap: Guithub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tripathi-dev&show_icons=true&theme=tokyonight" alt="Dev's github stats" height="195" />
-  <a href="https://github.com/tripathi-dev/tripathi-dev">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tripathi-dev&layout=compact&theme=tokyonight" alt="Top Langs" height="195" />
-  </a>
-</p>
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=tripathi-dev&show_icons=true&theme=tokyonight" alt="Dev's github stats" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/tripathi-dev/tripathi-dev">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tripathi-dev&layout=compact&theme=tokyonight" alt="Top Langs" style="max-width: 100%; height: auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br></br>
 
