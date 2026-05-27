@@ -21,20 +21,13 @@
 
 <br></br>
 
-<hr>
-<table>
-  <tr>
-    <td>
-      <b>You are visitor number:</b>
-      <br />
-      <img src="https://komarev.com/ghpvc/?username=tripathi-dev&color=blueviolet&style=flat-square" alt="Visitor Counter" height="30" />
-    </td>
-    <td align="right">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
-    </td>
-  </tr>
-</table>
-<hr>
+<p align="center">
+  <b>You are visitor number:</b>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=tripathi-dev&color=blueviolet&style=flat-square" alt="Visitor Counter" height="30" />
+  <br /><br />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
+</p>
 <br>
 
 - 🌱 I’m currently working on some Android Apps
@@ -45,9 +38,12 @@
 <br>
 
  #### :zap: Guithub Stats:
-![Dev's github stats](https://github-readme-stats-fast.vercel.app/api?username=tripathi-dev&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tripathi-dev&layout=compact&theme=tokyonight)](https://github.com/tripathi-dev/tripathi-dev)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tripathi-dev&show_icons=true&theme=tokyonight" alt="Dev's github stats" height="195" />
+  <a href="https://github.com/tripathi-dev/tripathi-dev">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tripathi-dev&layout=compact&theme=tokyonight" alt="Top Langs" height="195" />
+  </a>
+</p>
 
 <br></br>
 
